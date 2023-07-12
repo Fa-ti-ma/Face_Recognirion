@@ -1,0 +1,3 @@
+We train and test using two datasets obtained from Kaggle site. 
+(1) 5 Celebrity Faces Dataset: https://www.kaggle.com/datasets/dansbecker/5-celebrity-faces-dataset . 
+(2) Face Recognition Dataset (part of the dataset and we dubb it as Kaggle dataset): https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset?select=Faces . 
